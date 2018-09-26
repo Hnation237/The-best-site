@@ -8,7 +8,6 @@
            <img src="images/seeds.jpg">
            <h1>
               Official Frozen Waffle Tier List 
-             <a href="https://scratch.mit.edu/projects/246340804/#player">Scratch Game</a>
           </h1>
           <style>
               body {
