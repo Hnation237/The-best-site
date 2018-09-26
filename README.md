@@ -31,7 +31,6 @@ Games I made and Tier Lists for food
       </table>
     </body>
   </html>
-  </html>
   <html>
 <html>
 <body background="Chip.jpg">
