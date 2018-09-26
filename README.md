@@ -19,7 +19,7 @@
           
       </body>
       <table>
-        <tr><th>Tier</th><th>Flavor</th></tr></font>
+        <tr><th>Tier</th><th>Flavor</th></tr>
         <tr><td>S</td><td>Blue Berry, Chocolate Chip, Buttermilk</td></tr>
         <tr><td>A</td><td>Strawberry, Homestyle</td></tr>
         <tr><td>B</td><td>Belgian</td></tr>
@@ -27,8 +27,6 @@
         <tr><td>D</td><td>Gluten Free</td></tr>
         <tr><td>F</td><td>Flaxseed, Sweet Potato</td></tr>
       </table>
-    </body>
-  </html>
   </html>
   <html>
 <html>
