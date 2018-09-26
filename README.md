@@ -1,6 +1,5 @@
 # The-best-site
 Games I made and Tier Lists for food
-<!doctype html>
   <html lang="en">
        <head>
            <meta charset="utf-8">
