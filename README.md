@@ -9,10 +9,6 @@
            <h1>
               Official Frozen Waffle Tier List 
           </h1>
-          <style>
-              body {
-                 background-image url("images/waffle.png")
-          </style>
           <h2>
              This is 100% fact. No room for debate.
           </h2>
@@ -31,5 +27,3 @@
   <html>
 <html>
 <body background="images/blueberryw.jpg">
-</body>
-</html> 
