@@ -10,7 +10,7 @@
               Official Frozen Waffle Tier List 
           </h1>
           <h2>
-             This is 100% fact. No room for debate.
+             This is 100% fact. No room for debate. 
           </h2>
           
       </body>
@@ -22,6 +22,7 @@
         <tr><td>C</td><td>Ancient Grian, Whole Grian, 8 Grian, Mini Waffles</td></tr>
         <tr><td>D</td><td>Gluten Free</td></tr>
         <tr><td>F</td><td>Flaxseed, Sweet Potato</td></tr>
+        <a href="https://hnation237.github.io/Homepage/">Homepage</a>
       </table>
   </html>
   <html>
